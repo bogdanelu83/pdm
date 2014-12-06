@@ -1,4 +1,0 @@
-pdm
-===
-
-proiect PDM
